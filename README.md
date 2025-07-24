@@ -1,1 +1,1 @@
-# sofia-mejia-rivas-ings-202520
+# ejercicio-git-202520
